@@ -1,0 +1,17 @@
+{
+    "name": "andrespe/pdo",
+    "description": "PDO database Php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andrespaucar",
+            "email": "sjandres184@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app"
+        }
+    },
+    "require": {}
+}
